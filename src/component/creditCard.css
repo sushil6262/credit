@@ -1,0 +1,24 @@
+.frmtest{
+    box-shadow: 0 0 4px 1px #dcdcdc;
+    display:flex;
+    flex-direction:column;
+}
+.postal{
+    border-bottom: 1px solid #dcdcdc
+}
+.sq-card-number{
+    background-color: aqua;
+}
+.sq-cvv{
+    background-color: rgb(245, 156, 156);
+}
+.sq-expiration-date{
+    background-color: chartreuse;
+}
+.sq-postal-code{
+    background-color: coral;
+}
+#sq-ccbox{
+    display: flex;
+    flex-direction: column;
+}
